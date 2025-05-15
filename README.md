@@ -27,7 +27,7 @@ Javascript
 
 | Home Page | Motive Section | Services |
 |-----------|----------------|----------|
-| ![Home](https://github.com/yashnarsale/women-empowerment-work-from-home/blob/main/Screenshots/homepage.png) | ![Motive](https://github.com/yashnarsale/women-empowerment-work-from-home/blob/main/Screenshots/Motive.png) | ![Services]([Motive.png](https://github.com/yashnarsale/women-empowerment-work-from-home/blob/main/Screenshots/services.png)) |
+| ![Home](https://github.com/yashnarsale/women-empowerment-work-from-home/blob/main/Screenshots/homepage.png) | ![Motive](https://github.com/yashnarsale/women-empowerment-work-from-home/blob/main/Screenshots/Motive.png) | ![Services](https://github.com/yashnarsale/women-empowerment-work-from-home/blob/main/Screenshots/services.png)) |
 
 > *Replace the placeholder URLs above with actual screenshot paths when available.*
 
