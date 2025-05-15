@@ -29,8 +29,6 @@ Javascript
 |-----------|----------------|----------|
 | ![Home](https://github.com/yashnarsale/women-empowerment-work-from-home/blob/main/Screenshots/homepage.png) | ![Motive](https://github.com/yashnarsale/women-empowerment-work-from-home/blob/main/Screenshots/services.png) | ![Services](https://github.com/yashnarsale/women-empowerment-work-from-home/blob/main/Screenshots/Motive.png)) |
 
-> *Replace the placeholder URLs above with actual screenshot paths when available.*
-
 ---
 
 ## 🚀 Getting Started
